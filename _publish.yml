@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 8985a928-f2a0-45ac-8db0-b4d99bf69a06
+      url: 'https://splendorous-mochi-16a3e1.netlify.app'
